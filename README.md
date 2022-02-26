@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @curillaenator
+- 👋 Hi, I’m Kirill
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently using React + Redux/Effector + Typescript + Sass + Styled-components + Tailwind
 
