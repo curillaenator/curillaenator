@@ -12,6 +12,7 @@
 <img align="left" alt="CSS3" title='CSS3' width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Styled-components" title='Styled-components' width="26px" src="https://www.styled-components.com/atom.png" style="padding-right:10px;" />
 <img align="left" alt="Sass" title='Sass' width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jest" title='Jest' width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" title='Git' width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jira" title='Jira' width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
 
