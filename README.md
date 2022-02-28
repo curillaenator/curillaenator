@@ -19,7 +19,7 @@
 <br />
 <br />
 
-- ⚡ additionaly I can use:
+- ⚡ additionaly I use:
 
 <img align="left" alt="Effector" title='Effector' width="26px" src="https://effector.dev/img/comet.png" style="padding:10px;" />
 <img align="left" alt="Node.js" title='Node.js' width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
