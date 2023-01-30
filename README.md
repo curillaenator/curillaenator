@@ -1,6 +1,6 @@
-- 👋 Hi, I’m [Kirill](https://arturovapp.web.app)
-- 👀 I’m frontend developer 
-- 🌱 I’m using following languages and tools in my major workflow:
+Hi, I’m [Kirill](https://arturovapp.web.app)
+Frontend developer 
+I’m using following languages and tools in my major workflow:
 
 <img align="left" alt="Visual Studio Code" title='Visual Studio Code' width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
 <img align="left" alt="HTML5" title='HTML5' width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
